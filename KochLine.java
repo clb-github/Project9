@@ -111,7 +111,7 @@ public class KochLine extends Line{
     } // end computeFractal() method
 
     /**
-     * Check validity of KochLine objects.
+     * Check validity of KochLine objects A, B, C, D.
      * @return boolean
      * PreCondition: none
      * PostCondition: returns boolean after checking validity of KochLine
